@@ -19,8 +19,8 @@ La estructura viva del Google Sheet siempre prevalece sobre este documento.
 
 # Archivo principal
 
-- Spreadsheet: `Finanzas Sommos — Workflow y Control`
-- Spreadsheet ID: `1RXy19WZMPQePflFaFeIIHnh09BpJbwOnk6Wumw8bW4E`
+- Spreadsheet: `Finanzas Sommos — Workflow y Control V2.0`
+- Spreadsheet ID: `1z0ON-50Ps3V9AYACSZxVBe6sNuAuYxE4qwrV2N5tQZY`
 
 Pestañas relevantes:
 

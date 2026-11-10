@@ -20,6 +20,6 @@ Skill financiera de Sommos.
 
 ## Fuente de datos viva
 
-Google Sheet: Finanzas Sommos — Workflow y Control
+Google Sheet: Finanzas Sommos — Workflow y Control V2.0
 
 Los datos del Google Sheet prevalecen sobre cualquier snapshot documentado en este repositorio.

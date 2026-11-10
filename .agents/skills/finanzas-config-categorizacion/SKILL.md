@@ -31,9 +31,9 @@ Su responsabilidad es garantizar que el resto del sistema trabaje sobre una taxo
 
 # Archivo principal
 
-- Spreadsheet: `Finanzas Sommos — Workflow y Control`
-- Spreadsheet ID: `1RXy19WZMPQePflFaFeIIHnh09BpJbwOnk6Wumw8bW4E`
-- URL: `https://docs.google.com/spreadsheets/d/1RXy19WZMPQePflFaFeIIHnh09BpJbwOnk6Wumw8bW4E/edit`
+- Spreadsheet: `Finanzas Sommos — Workflow y Control V2.0`
+- Spreadsheet ID: `1z0ON-50Ps3V9AYACSZxVBe6sNuAuYxE4qwrV2N5tQZY`
+- URL: `https://docs.google.com/spreadsheets/d/1z0ON-50Ps3V9AYACSZxVBe6sNuAuYxE4qwrV2N5tQZY/edit`
 
 El Google Sheet vivo es la fuente de verdad sobre:
 
@@ -748,6 +748,15 @@ Usar para:
 - transferencias;
 - conciliación a nivel transacción.
 
+## `finanzas-devengo-operativo`
+
+Usar para:
+
+- Operative incomes;
+- Real S&A;
+- Sueldos 2026;
+- devengo y forecast por periodo.
+
 ## `finanzas-cxc-cxp`
 
 Usar para:
@@ -760,15 +769,21 @@ Usar para:
 - CxP Sueldos;
 - roll-forward de saldos.
 
-## `finanzas-presupuesto-bancos`
+## `finanzas-bancos-conciliacion`
 
 Usar para:
 
-- Presupuesto;
-- Bancos;
-- saldos bancarios;
-- conciliación de cierre;
-- Budget vs P&L.
+- conciliación consolidada de Bancos;
+- saldos bancarios por cuenta;
+- diferencias y cierre bancario.
+
+## `finanzas-presupuesto-vs`
+
+Usar para:
+
+- presupuesto;
+- Budget vs P&L;
+- análisis de variaciones.
 
 ## `finanzas-runway-dashboard`
 
@@ -782,7 +797,7 @@ Usar para:
 
 ## `finanzas-estados-financieros`
 
-Cuando exista, usar para:
+Usar para:
 
 - Real P&L;
 - Cash Flow;
@@ -791,7 +806,7 @@ Cuando exista, usar para:
 
 ## `finanzas-cierre-mensual`
 
-Cuando exista, usar para:
+Usar para:
 
 - orquestar el cierre mensual completo;
 - comprobar bancos cerrados;
